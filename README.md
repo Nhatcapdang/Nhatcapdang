@@ -38,7 +38,6 @@
 <img align="left" alt="Material" width="26px" src="https://pngimage.net/wp-content/uploads/2019/05/logo-icon-facebook-png-.png" />
 <img align="left" alt="Material" width="26px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
 <br />
-<br />
 <img align="left" alt="Material" width="26px" src="https://miro.medium.com/max/1400/1*CStP06JrfLSevaOkPZavvg.png" />
 <img align="left" alt="Material" width="26px" src="https://img.favpng.com/4/14/19/socket-io-javascript-express-js-react-logo-png-favpng-68mCtc3fMmpFxGyCREqztPjT7.jpg" />
 
