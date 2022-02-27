@@ -36,13 +36,14 @@
 <img align="left" alt="Webpack" width="26px" src="https://marlom.dev/images/posts/upgrade-to-react-17-and-webpack-5/header.png" />
 <img align="left" alt="Boostrap" width="26px" src="https://getbootstrap.com/docs/4.1/assets/img/bootstrap-stack.png" />
 <img align="left" alt="Material" width="26px" src="https://pngimage.net/wp-content/uploads/2019/05/logo-icon-facebook-png-.png" />
-<img align="left" alt="Material" width="26px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+<img align="left" alt="Material2" width="26px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+
 <br />
-<img align="left" alt="Material" width="26px" src="https://miro.medium.com/max/1400/1*CStP06JrfLSevaOkPZavvg.png" />
-<img align="left" alt="Material" width="26px" src="https://img.favpng.com/4/14/19/socket-io-javascript-express-js-react-logo-png-favpng-68mCtc3fMmpFxGyCREqztPjT7.jpg" />
 
-
-
+<img style="
+    margin: 0;
+" align="left" alt="Material3" width="26px" src="https://miro.medium.com/max/1400/1*CStP06JrfLSevaOkPZavvg.png" />
+<img align="left" alt="Material4" width="26px" src="https://img.favpng.com/4/14/19/socket-io-javascript-express-js-react-logo-png-favpng-68mCtc3fMmpFxGyCREqztPjT7.jpg" />
 
 <br />
 <br />
