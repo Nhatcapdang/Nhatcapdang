@@ -40,10 +40,10 @@
 
 <br />
 
-<img style="
-    margin: 0;
-" align="left" alt="Material3" width="26px" src="https://miro.medium.com/max/1400/1*CStP06JrfLSevaOkPZavvg.png" />
+<div>
+  <imgalign="left" alt="Material3" width="26px" src="https://miro.medium.com/max/1400/1*CStP06JrfLSevaOkPZavvg.png" />
 <img align="left" alt="Material4" width="26px" src="https://img.favpng.com/4/14/19/socket-io-javascript-express-js-react-logo-png-favpng-68mCtc3fMmpFxGyCREqztPjT7.jpg" />
+  </div>
 
 <br />
 <br />
