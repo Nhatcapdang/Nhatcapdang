@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently  working on for a securities company 🤣
 - 👯 I’m looking to  What it takes to be a project manager from start to finish 
-- 🥅 2021 Goals: Improve your English for yourself
+- 🥅 2023 Goals: Improve your English for yourself
 - ⚡ Fun fact: The new is always better
 - 📫 How to reach me: Vankiet.kn78@gmail.com 
 
